@@ -44,11 +44,15 @@ Permite analizar la información histórica proveniente del sistema OLTP con fin
 
 - **OLTP/**
 
+  - Modelo conceptual del sistema transaccional.
   - Scripts SQL para la creación del modelo transaccional normalizado (3FN).
+  - Modelo fisico.
 
 - **BI/**
 
+  - Modelo conceptual del sistema analítico.
   - Scripts SQL para la creación del modelo dimensional (esquema estrella).
+  - Modelo fisico.
 
 - **README.md**
 
